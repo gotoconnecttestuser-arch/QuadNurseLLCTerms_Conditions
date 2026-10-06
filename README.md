@@ -1,7 +1,14 @@
 SMS Terms and Conditions
 Effective Date: October 6, 2026
 
-By opting in to receive SMS messages from Quad Nurse LLC, you agree to the following SMS Terms and Conditions.
+By opting in to receive SMS messages from Quad Nurse LLC, you agree to receive customer care messages.
+
+Message frequency: Message frequency may vary. On average, 1-2 messages per month.
+Message and data rates: Message and data rates may apply.
+Opt-out: You can opt out at any time by replying STOP.
+Help: Reply HELP for assistance.
+Privacy Policy: https://github.com/gotoconnecttestuser-arch/QuadNurseLLCPrivacy_Policy
+Your consent to receive SMS messages is not a condition of purchase.
 
 Company Information
 Quad Nurse LLC
